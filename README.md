@@ -1,0 +1,2 @@
+# AI_CNN_RNN_VIT
+使用RNN以及vision transformer实现对视频的分类

@@ -1,0 +1,2 @@
+model_checkpoint_path: "transformer_video_cls"
+all_model_checkpoint_paths: "transformer_video_cls"

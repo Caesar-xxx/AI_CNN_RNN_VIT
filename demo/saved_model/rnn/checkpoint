@@ -1,0 +1,2 @@
+model_checkpoint_path: "video_classifier_rnn"
+all_model_checkpoint_paths: "video_classifier_rnn"
